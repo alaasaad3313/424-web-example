@@ -11,4 +11,4 @@ To have code we can use for hands on exercises. We are also using this to see ho
 This section will be different on the featurbranch.
 
 ##Method
-How will we resolve this featur, since the "base" now has a conflict in it ?
+How will we resolve this featur, since the "base" now has a conflict in it?
